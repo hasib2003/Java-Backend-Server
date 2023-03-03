@@ -1,10 +1,17 @@
 # Java-Backend-Server
-#---- open terminal in directory where you have main files ----
-#---- run following commands ----
+---- open terminal in directory where you have main files ---- 
 
-.. --------------------- javac Main.java ----------------------------
-.. --------------------- java Main 4000 public ----------------------
-.. ---------------------First ->  the port number--------------------
-.. ---------------------Second -> relative path to public directory--
+---- run following commands ---- 
 
-you can change the arguments depending upon your requirements
+
+--------------------- javac Main.java ---------------------------- 
+
+--------------------- java Main 4000 public ---------------------- 
+
+---------------------First ->  the port number-------------------- 
+
+---------------------Second -> relative path to public directory-- 
+
+
+you can change the arguments depending upon your requirements 
+
